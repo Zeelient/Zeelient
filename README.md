@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zeelient, but call call me Zeel. Trying to improve my coding skills and get any coding job by learning and practicing many computer languages.
+- 👋 Hi, I’m @Zeelient, but call me Zeel. Trying to improve my coding skills and get any coding job by learning and practicing many computer languages.
 - This account will act as a portfolio for most of my stuff. I'm also open to collaborations. Currently, I have learned HTML, CSS, JS, c++, Java, and mySQL.
 
 The language I am currently learning is python.
