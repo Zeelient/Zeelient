@@ -5,7 +5,7 @@ The language I am currently learning is python.
 
 
 
-I'll add an email later.
+zeelienty@gmail.com
 
 <!---
 Zeelient/Zeelient is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
