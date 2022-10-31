@@ -3,7 +3,7 @@
 
 
 
-contact me at zeelienty@gmail.com
+contact me at christinam.kramer@gmail.com
 
 <!---
 Zeelient/Zeelient is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
