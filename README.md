@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Zeelient, but call me Zeel. Trying to improve my coding skills and get any coding job by learning and practicing many computer languages.
-- This account will act as a portfolio for most of my stuff. I'm open collaborations, internships, and jobs. Currently, I have learned HTML, CSS, JS, c++, Java, Python, and mySQL.
-
-
+- 👋 Hi, I’m @Zeelient, but call me Zeel. This account will act as a portfolio as I improve at coding
+- 
 
 contact me at christinam.kramer@gmail.com
 
